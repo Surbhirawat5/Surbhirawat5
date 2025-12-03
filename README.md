@@ -7,7 +7,7 @@
 
 ## 🚀 About Me  
 
-- 🔭 I’m currently working on ** Full Stack Projects**  
+- 🔭 I’m currently working on **Full Stack Projects**  
 - 🌱 I’m learning **Python, Django, React, JavaScript, Bootstrap, Power BI, MySQL**  
 - 🤝 I’m looking to collaborate on **Internship & Live Project Opportunities**  
 - 💬 Ask me about **Frontend | Backend | Python | Power BI**  
