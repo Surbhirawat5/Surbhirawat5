@@ -15,7 +15,7 @@
 - 🤝 I’m looking to collaborate on **Internship & Live Project Opportunities**  
 - 💬 Ask me about **Frontend | Backend | Python | Power BI**  
 - 📫 Reach me at: **shurbhirawat43@gmail.com**  
-- ⚡ Fun fact: **I love creating beautiful UI and smart automations**  
+- ⚡ Fun fact: **I love creating beautiful UI**  
 
 ---
 
