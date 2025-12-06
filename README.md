@@ -1,4 +1,8 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Surbhirawat5/Surbhirawat5/refs/heads/main/WhatsApp%20Image%202025-11-26%20at%209.30.22%20PM%20(1).jpeg" width="250" style="border-radius: 15px;" />
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Surbhi Rawat</h1>
 <h3 align="center">A passionate Python Full Stack Developer from India</h3>
