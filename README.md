@@ -35,7 +35,6 @@
   <img src="https://skillicons.dev/icons?i=js" width="45"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" width="45"/>
   <img src="https://skillicons.dev/icons?i=react" width="45"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="45"/>
   <img src="https://skillicons.dev/icons?i=git" width="45"/>
   <img src="https://skillicons.dev/icons?i=vscode" width="45"/>
 </p>
@@ -48,6 +47,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surbhirawat5&theme=tokyonight" height="180"/>
 
 ---
-
-## 🏅 GitHub Trophies  
-<img src="https://github-profile-trophy.vercel.app/?username=Surbhirawat5&theme=tokyonight&no-frame=true&margin-w=10" />
