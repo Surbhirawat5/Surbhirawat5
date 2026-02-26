@@ -57,9 +57,9 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" width="45" title="Git Version Control"/>
   <img src="https://skillicons.dev/icons?i=vscode" width="45" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"
-       width="45"
-       title="Power BI Data Visualization"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
+     width="45"
+     title="Power BI Data Visualization"/>
 </p>>
 
 ---
