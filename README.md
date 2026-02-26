@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 
 <h1 align="center">Hi 👋, I'm Surbhi Rawat</h1>
@@ -10,7 +10,7 @@
 </p>
 ---
 
-## 🚀 About Me  
+# 🚀 About Me  
 
 - 🔭 I’m currently working on **Full Stack Projects**  
 - 🌱 I’m learning **Python, Django, React, JavaScript, Bootstrap, Power BI, MySQL**  
@@ -21,7 +21,7 @@
 
 ---
 
-## 🌐 Connect With Me  
+# 🌐 Connect With Me  
 <a href="https://www.linkedin.com/in/surbhi-rawat05/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
 <a href="https://github.com/Surbhirawat5"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
@@ -30,9 +30,9 @@
 ---
 
 
-## 🛠️ Languages & Tools  
+# 🛠️ Languages & Tools  
 
-# 🎨 Frontend
+## 🎨 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" width="45" title="HTML5"/>
   <img src="https://skillicons.dev/icons?i=css" width="45" title="CSS3"/>
@@ -41,23 +41,23 @@
   <img src="https://skillicons.dev/icons?i=react" width="45" title="React.js"/>
 </p>
 
-# ⚙️ Backend
+## ⚙️ Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="45" title="Python"/>
   <img src="https://skillicons.dev/icons?i=django" width="45" title="Django"/>
 </p>
 
-# 🗄️ Database
+## 🗄️ Database
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" width="45" title="MySQL / SQL"/>
 </p>
 
-# ☁️ Deployment & Hosting
+## ☁️ Deployment & Hosting
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vercel" width="45" title="Vercel Deployment"/>
 </p>
 
-# 🧰 Tools & Analytics
+## 🧰 Tools & Analytics
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" width="45" title="Git Version Control"/>
   <img src="https://skillicons.dev/icons?i=vscode" width="45" title="VS Code"/>
@@ -69,7 +69,7 @@
 ---
 
 
-## 📊 GitHub Stats  
+# 📊 GitHub Stats  
 
 <img src="https://github-readme-stats.vercel.app/api?username=Surbhirawat5&show_icons=true&theme=tokyonight" height="180"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surbhirawat5&theme=tokyonight" height="180"/>
