@@ -32,7 +32,7 @@
 
 ## 🛠️ Languages & Tools  
 
-🎨 Frontend
+# 🎨 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" width="45" title="HTML5"/>
   <img src="https://skillicons.dev/icons?i=css" width="45" title="CSS3"/>
@@ -40,20 +40,24 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" width="45" title="Bootstrap"/>
   <img src="https://skillicons.dev/icons?i=react" width="45" title="React.js"/>
 </p>
-⚙️ Backend
+
+# ⚙️ Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="45" title="Python"/>
   <img src="https://skillicons.dev/icons?i=django" width="45" title="Django"/>
 </p>
-🗄️ Database
+
+# 🗄️ Database
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" width="45" title="MySQL / SQL"/>
 </p>
-☁️ Deployment & Hosting
+
+# ☁️ Deployment & Hosting
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vercel" width="45" title="Vercel Deployment"/>
 </p>
-🧰 Tools & Analytics
+
+# 🧰 Tools & Analytics
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" width="45" title="Git Version Control"/>
   <img src="https://skillicons.dev/icons?i=vscode" width="45" title="VS Code"/>
