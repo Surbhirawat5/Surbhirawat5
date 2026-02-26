@@ -4,6 +4,10 @@
 <h1 align="center">Hi 👋, I'm Surbhi Rawat</h1>
 <h3 align="center">A passionate Python Full Stack Developer from India</h3>
 
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Surbhirawat5&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 ---
 
 ## 🚀 About Me  
@@ -25,21 +29,41 @@
 
 ---
 
+
 ## 🛠️ Languages & Tools  
 
+🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="45"/>
-  <img src="https://skillicons.dev/icons?i=django" width="45"/>
-  <img src="https://skillicons.dev/icons?i=html" width="45"/>
-  <img src="https://skillicons.dev/icons?i=css" width="45"/>
-  <img src="https://skillicons.dev/icons?i=js" width="45"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="45"/>
-  <img src="https://skillicons.dev/icons?i=react" width="45"/>
-  <img src="https://skillicons.dev/icons?i=git" width="45"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="45"/>
+  <img src="https://skillicons.dev/icons?i=html" width="45" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" width="45" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=js" width="45" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="45" title="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=react" width="45" title="React.js"/>
 </p>
+⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" width="45" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=django" width="45" title="Django"/>
+</p>
+🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" width="45" title="MySQL / SQL"/>
+</p>
+☁️ Deployment & Hosting
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel" width="45" title="Vercel Deployment"/>
+</p>
+🧰 Tools & Analytics
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" width="45" title="Git Version Control"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="45" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"
+       width="45"
+       title="Power BI Data Visualization"/>
+</p>>
 
 ---
+
 
 ## 📊 GitHub Stats  
 
